@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Choelramos
 - 👀 I’m interested in programing and tecnologi.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning html css.
 - 💞️ I’m looking to collaborate on comunities of programers.
 - 📫 How to reach me https://www.linkedin.com/in/joel-ramos-49250661/ 
 
