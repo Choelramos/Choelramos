@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Choelramos
+<h1> "🫡 Hi, I’m Joel Ramos" </h1>
 - 👀 I’m interested in programing and tecnologi.
 - 🌱 I’m currently learning html css.
 - 💞️ I’m looking to collaborate on comunities of programers.
