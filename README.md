@@ -3,7 +3,7 @@
 -  I’m interested to leard about programming, data bases and security of information.
 -  I’m currently learning two languages of programmation, Python and javaScript. My knowledges about theses tecnology it's increasing every day, and i pretend be specialist on it.
 -  I’m looking to collaborate on communities of developers as much as I can.
--  How to reach me https://www.linkedin.com/in/joel-ramos-49250661/
+-  How to reach me https://www.linkedin.com/in/joel-ramos-dev/
 
  <div>
  <a href="https://github.com/Choelramos">
