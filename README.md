@@ -5,4 +5,5 @@
 -  I’m looking to collaborate on communities of developers as much as I can.
 -  How to reach me https://www.linkedin.com/in/joel-ramos-dev/
 
-<div>![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&show_icons=true&theme=radical)</div>
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&show_icons=true&theme=radical)
