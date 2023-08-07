@@ -7,4 +7,4 @@
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choelramos)](https://github.com/Choelramos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choelramos&layout=compact)](https://github.com/Choelramos/github-readme-stats)
