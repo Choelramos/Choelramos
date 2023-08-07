@@ -8,4 +8,4 @@
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&show_icons=true&theme=radical)
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&show_icons=true)
+
