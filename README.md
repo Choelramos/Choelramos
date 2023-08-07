@@ -10,6 +10,6 @@
  <img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api?username=Choelramos&rank_icon=github&show_icons=true&theme=radical"/>
 
 <a href="https://github.com/Choelramos/github-readme-stats">
-<img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choelramos&layout=compact"
+<img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choelramos&layout=compact"
 
 </div>
