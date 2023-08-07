@@ -6,7 +6,7 @@
 -  How to reach me https://www.linkedin.com/in/joel-ramos-dev/
 
 
-<div display: inline-block>![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&rank_icon=github&show_icons=true&theme=radical)</div>
+<img align="center" height="170" width="45%" src=![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choelramos&rank_icon=github&show_icons=true&theme=radical)/>
 
 
 
